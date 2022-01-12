@@ -1,6 +1,6 @@
 # Regression_for_data_science
 
-# Predicting : Gross Efficiency
+## Predicting : Gross Efficiency
 The objective of the exercice is to understand the efficiency of an industrial plant and to be able to perform an accurate but trustable prediction of this efficiency.
 A power plant provides energy as **output** : *GrossPower*.  
 As an **input**, the plant use *Gas* (with different quality, content,...) and deliver energy in the atmospheric condition described by the *AirHumidity, AirPressure, AirTemperature* .
